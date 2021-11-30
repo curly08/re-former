@@ -37,3 +37,4 @@ en:
     submit:
       user:
         create: 'SUBMIT!'
+        update: 'UPDATE!'
